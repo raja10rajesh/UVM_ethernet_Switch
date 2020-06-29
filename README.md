@@ -10,13 +10,13 @@
 1. Launch Qt Creator. Select new option to start a new project.
 
 2. Select Application (Qt Quick) -> Qt Quick Application - Empty -> Choose. 
-![2](/Images/2a.png)
+![2](/images/2a.png)
 3. Give a name to the project. Select the folder in which you want to save the project. Then select next.
-![3](/Images/3.png)
+![3](/images/3.png)
 4. Select build system -> Minimal required Qt Version -> Translation file (if needed).
-![4](/Images/4.png)
-![5](Images/5.png)
-![6](/Images/6.png)
+![4](/images/4.png)
+![5](images/5.png)
+![6](/images/6.png)
 5. Select Finish. Hence, the project is created. 
-![7](/Images/7.png)
-![8](/Images/8.png)
+![7](/images/7.png)
+![8](/images/8.png)
