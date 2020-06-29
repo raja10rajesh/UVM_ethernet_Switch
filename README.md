@@ -14,7 +14,7 @@
 3. Give a name to the project. Select the folder in which you want to save the project. Then select next.
 ![3](/images/3.png)
 4. Select build system -> Minimal required Qt Version -> Translation file (if needed).
-![4](/images/4.png)
+![4](/images/4.jpeg)
 ![5](images/5.png)
 ![6](/images/6.png)
 5. Select Finish. Hence, the project is created. 
